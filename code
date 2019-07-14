@@ -1,0 +1,16 @@
+[Rainmeter]
+Update=1000
+
+[Metadata]
+Name=
+Author=
+Information=
+Version=
+License=
+
+[ImageLaunch]
+Meter=Image
+W=45
+H=45
+ImageName=#@#
+LeftMouseUpAction=
